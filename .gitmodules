@@ -1,0 +1,18 @@
+[submodule "platform"]
+	path = platform
+	url = git@github.com:mbenndor/platform.git
+[submodule "toolbox"]
+	path = toolbox
+	url = git@github.com:mbenndor/toolbox.git
+[submodule "synchronisation"]
+	path = synchronisation
+	url = git@github.com:mbenndor/synchronisation.git
+[submodule "sensor"]
+	path = sensor
+	url = git@github.com:mbenndor/sensor.git
+[submodule "classification"]
+	path = classification
+	url = git@github.com:mbenndor/classification.git
+[submodule "geometry"]
+	path = geometry
+	url = git@github.com:mbenndor/geometry.git
